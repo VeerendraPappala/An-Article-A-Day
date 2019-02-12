@@ -11,4 +11,15 @@
 * So, if you want to learn how to build a recommender system from scratch, Read  the complete article from [here](https://towardsdatascience.com/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)  
 * Checkout the code from here -  [DAY1](https://github.com/VeerendraPappala/BOOK-RECOMMENDATION-SYSTEM/blob/master/Books_Recommendation.ipynb)
 
+
+## Day-2 | Summarize Trump’s State of the Union Address
+
+![trump](https://user-images.githubusercontent.com/45025357/52652831-d3c0f380-2f14-11e9-887b-a564feaee770.jpg)
+
+**Article Is about build a Text summarizer so as to summarize Trumps reactions on State of White Houses instead of listening entire speech for  82minutes** 
+
+* Automatic text summarization, is the process of creating a short, concise and coherent version of a longer document
  
+* Read the complete [Article](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)
+
+* Checkout the code from here - [Day2](https://github.com/VeerendraPappala/Analyise-Summarize-Trump-s-remarks-on-state-of-the-Union-Houses/blob/master/Summarize-Trump's-Remarks.ipynb)
