@@ -23,3 +23,26 @@
 * Read the complete [Article](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)
 
 * Checkout the code from here - [Day2](https://github.com/VeerendraPappala/Analyise-Summarize-Trump-s-remarks-on-state-of-the-Union-Houses/blob/master/Summarize-Trump's-Remarks.ipynb)
+
+## Day-3 | Time Forecast using  Tpot Automated ML in python
+
+![tpot-logo](https://user-images.githubusercontent.com/45025357/52727507-5f9d5300-2fdb-11e9-99b7-d86acc80f44a.jpg)
+
+**Article is about Time Forecast Using TPOT- An automated Machine Learning In Python**
+
+* TPOT is meant to be an assistant that gives you ideas on how to solve a particular machine learning problem by exploring pipeline configurations that you might have never considered, then leaves the fine-tuning to more constrained parameter tuning techniques such as grid search.
+
+* So TPOT helps you find good algorithms. Note that it isn’t designed for automating deep learning — something like AutoKeras might be helpful there.
+* AutoML algorithms aren’t as simple as fitting one model on the dataset; they are considering multiple machine learning algorithms (random forests, linear models, SVMs, etc.) in a pipeline with multiple preprocessing steps (missing value imputation, scaling, PCA, feature selection, etc.), the hyperparameters for all of the models and preprocessing steps, as well as multiple ways to ensemble or stack the algorithms within the pipeline.
+
+* There are so many interesting directions to explore with TPOT and autoML. I’d like to compare TPOT with autoSKlearn, MLBox, Auto-Keras, and others. I’d also like to see how it performs with a greater variety of data, other imputation strategies, and other encoding strategies. A comparison with LightGBM, CatBoost , and deep learning algorithms would also be interesting. 
+
+* For More info info Read the complete [Article](https://towardsdatascience.com/time-forecast-with-tpot-b2d87eaba59c) & [Documentation](http://epistasislab.github.io/tpot/using/)
+
+* Checkout the complete Code here - [Day3](https://github.com/VeerendraPappala/Time-Forecast-Using-TPOT/blob/master/TPOT.ipynb)
+
+
+
+* 
+
+
