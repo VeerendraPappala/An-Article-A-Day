@@ -41,8 +41,23 @@
 
 * Checkout the complete Code here - [Day3](https://github.com/VeerendraPappala/Time-Forecast-Using-TPOT/blob/master/TPOT.ipynb)
 
+## Day-4 | PYTORCH AND ResNet for Traffic Sign Classification With PyTorch
 
+![pytorch-logo](https://user-images.githubusercontent.com/45025357/52785901-36360300-307f-11e9-97f4-d01c619a51ab.jpg)
 
-* 
+**Article is Restnet used  with pytorch to classify German Traffic Board signs using Fastai in Python** 
+
+* PyTorch was one of the most popular frameworks in 2018.PyTorch is a Python based scientific computing package that is similar to NumPy, but with the added power of GPUs. It is also a deep learning framework that provides maximum flexibility and speed during implementing and building deep neural network architectures.
+
+* The FastAi library is a high level library build on PyTorch, which allows us to build models using only a few lines of code.The FastAI library provides a lot of different datasets which can be loaded in directly, but it also provides functionality for downloading images given a file containing the urls of these images.
+
+* Fastai  allows us to perform transfer learning with less code and time by giving us the ability to set different learning rates for different parts in the network. This allows us to train the earlier layers less than the latter layers.
+
+* Get here  more Info on [pytorch official Guide](https://pytorch.org/tutorials/), 
+[Deep Learning with PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+,[ Introduction on pytorch](https://www.analyticsvidhya.com/blog/2019/01/guide-pytorch-neural-networks-case-studies/),  [Resnet for traffic signs Classification using Pytorch](https://towardsdatascience.com/resnet-for-traffic-sign-classification-with-pytorch-5883a97bbaa3)
+
+* Code for - [Day4](https://github.com/VeerendraPappala/PYTORCH/blob/master/Resnet.ipynb)
+
 
 
