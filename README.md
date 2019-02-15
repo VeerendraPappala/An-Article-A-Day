@@ -59,5 +59,24 @@
 
 * Code for - [Day4](https://github.com/VeerendraPappala/PYTORCH/blob/master/Resnet.ipynb)
 
+## Day-5 | Google Facets & Bookeh For Data Visualisation in Python
+
+![data-visualization-tools-in-python-15-638](https://user-images.githubusercontent.com/45025357/52860670-1b828d80-3156-11e9-98f1-b0b950b93ae8.jpg)
+
+**Visualising Machine Learning Datasets with Google’s FACETS - An open source tool from Google to easily learn patterns from large amounts of data And Bokeh**
+
+* Data visualization is important to create meaningful information and decision making power. Data is useless if its not creating any meaning. I did  EDA with FACETS on the universal Dataset and Heart Disease dataset from Kaggle. 
+* more info is here 
+  * [Article on Facets](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)            
+  * [Article on Bokeh](https://towardsdatascience.com/interactive-plotting-with-bokeh-ea40ab10870)
+  * [Documentation on Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide/layout.html)
+  * [Facets](https://ai.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+  
+* Notebooks of Day-5 - [Facets](https://github.com/VeerendraPappala/Data-Visualization/tree/master/FACETS) & [Bokeh](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
+
+
+
+
+
 
 
