@@ -59,6 +59,7 @@
 
 * Code for - [Day4](https://github.com/VeerendraPappala/PYTORCH/blob/master/Resnet.ipynb)
 
+
 ## Day-5 | Google Facets & Bookeh For Data Visualisation in Python
 
 ![data-visualization-tools-in-python-15-638](https://user-images.githubusercontent.com/45025357/52860670-1b828d80-3156-11e9-98f1-b0b950b93ae8.jpg)
@@ -77,6 +78,8 @@
 
 
 ## Day-6 | Develop a NLP Model in Python & Deploy It with Flask
+
+
 ![flask](https://user-images.githubusercontent.com/45025357/52902710-9a50f680-323a-11e9-92ea-49942e0b974b.png)
 
 **In reality, generating predictions is only part of a machine learning project, although it is the most important part . This article is about how to deploying a model in Production using Flask.**
