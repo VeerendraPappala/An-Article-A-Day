@@ -76,6 +76,23 @@
 
 
 
+## Day-6 | Develop a NLP Model in Python & Deploy It with Flask
+![flask](https://user-images.githubusercontent.com/45025357/52902710-9a50f680-323a-11e9-92ea-49942e0b974b.png)
+
+**In reality, generating predictions is only part of a machine learning project, although it is the most important part . This article is about how to deploying a model in Production using Flask.**
+
+* For more info, chekout these articles
+  * [Tutorial to deploy Machine Learning models in Production as APIs](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)
+  * [Deploying a Machine Learning Model as a REST API](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
+  * [NLP model Deployement Using Flask](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
+  
+* The complete working source code is available at this repository - [Day-6](https://github.com/susanli2016/SMS-Message-Spam-Detector) 
+ 
+
+
+
+
+
 
 
 
