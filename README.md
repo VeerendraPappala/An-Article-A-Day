@@ -90,6 +90,33 @@
   * [NLP model Deployement Using Flask](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
   
 * The complete working source code is available at this repository - [Day-6](https://github.com/susanli2016/SMS-Message-Spam-Detector) 
+
+
+## Day-7 | PyViz: Simplifying the Data Visualisation process in Python.
+
+![pyviz](https://user-images.githubusercontent.com/45025357/52916608-b8d0f380-3307-11e9-8b64-9e6448802ea3.png)
+
+**Article today is about An overview of the PyViz ecosystem to make data visualizations in Python easier to use, learn and more powerful.**
+
+* Now, to choose the best tool for our job from amongst all of the above  is a bit tricky and confusing. PyViz tries to plug this situation. It helps to streamline the process of working with small and large datasets (from a few points to billions) in a web browser, whether doing exploratory analysis, making simple widget-based tools or building full-featured dashboards.
+* HoloViews : Declarative objects for instantly visualizable data, building Bokeh plots from convenient high-level specifications.
+* The open source libraries which constitute PyViz are:
+  * GeoViews 
+  * Datashader
+  * hvPlot 
+  * Param 
+  * Holoviews
+  * Bokeh
+  * Panel
+
+* Get more info by reading these [Article by Parul Pandey](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1), [Pyviz Documentation](http://pyviz.org).
+* The dataset used in practise is [Uniqlo (FastRetailing) Stock Price Prediction](https://www.kaggle.com/daiearth22/uniqlo-fastretailing-stock-price-prediction) from Kaggle.
+
+* Code and Date Notebook - [Day-7](https://github.com/VeerendraPappala/Data-Visualization/tree/master/Pyviz)
+
+ 
+
+
  
 
 
