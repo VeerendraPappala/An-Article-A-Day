@@ -112,7 +112,7 @@
 * Get more info by reading these [Article by Parul Pandey](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1), [Pyviz Documentation](http://pyviz.org).
 * The dataset used in practise is [Uniqlo (FastRetailing) Stock Price Prediction](https://www.kaggle.com/daiearth22/uniqlo-fastretailing-stock-price-prediction) from Kaggle.
 
-* Code and Date Notebook - [Day-7](https://github.com/VeerendraPappala/Data-Visualization/tree/master/Pyviz)
+* Here is the Data and Notebook of  [Day-7](https://github.com/VeerendraPappala/Data-Visualization/tree/master/Pyviz)
 
  
 
