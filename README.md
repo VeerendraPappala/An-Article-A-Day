@@ -114,7 +114,16 @@
 
 * Here is the Data and Notebook of  [Day-7](https://github.com/VeerendraPappala/Data-Visualization/tree/master/Pyviz)
 
- 
+## DAY-8 |  A Linear Regression with PySpark and MLlib
+
+![pyspark](https://user-images.githubusercontent.com/45025357/52965852-cb146580-33cb-11e9-91ba-af4f54fad2e3.png)
+
+**Apache Spark has become one of the most commonly used and supported open-source tools for machine learning and data science.**
+*  From this [Article](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a),I got to know how to  get started using Apache Spark’s.
+* Apache Spark’s.spark.ml Linear Regression is used for predicting Boston housing prices. 
+*  data is from the [Kaggle competition](https://www.kaggle.com/c/boston-housing/data)
+* For more info on pyspark dive into these links [Apache Spark](https://spark.apache.org), [Apache spark for classification & Regression](https://spark.apache.org/docs/2.2.0/ml-classification-regression.html#linear-regression)
+* Notebook of  [Day-8](https://github.com/VeerendraPappala/PYSPARK)
 
 
  
