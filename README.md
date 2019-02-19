@@ -125,8 +125,15 @@
 * For more info on pyspark dive into these links [Apache Spark](https://spark.apache.org), [Apache spark for classification & Regression](https://spark.apache.org/docs/2.2.0/ml-classification-regression.html#linear-regression)
 * Notebook of  [Day-8](https://github.com/VeerendraPappala/PYSPARK)
 
+## DAY-9 | A Logistic Regression with Pyspark
 
+![merge](https://user-images.githubusercontent.com/45025357/53030592-23fa0180-3491-11e9-9fad-5e1a1daf5bfd.jpg)
+
+* From this [Article](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a),I got to know how to  get started using Apache Spark’s. 
+* As the article tells about linear regression, I built a logistic regression with Apache Spark using [banks marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) taken from UCI. 
+* For more info on [Apache Spark](https://spark.apache.org), [Apache spark for classification & Regression](https://spark.apache.org/docs/2.2.0/ml-classification-regression.html#linear-regression).
  
+* Notebook of [Day-9](https://github.com/VeerendraPappala/PYSPARK/tree/master/Logistic%20Regression)
 
 
 
