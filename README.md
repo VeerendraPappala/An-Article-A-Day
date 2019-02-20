@@ -141,8 +141,7 @@
 
 *  k-means clustering aims to converge on an optimal set of cluster centers (centroids) and cluster membership based on distance from these centroids via successive iterations, it is intuitive that the more optimal the positioning of these initial centroids, the fewer iterations of the k-means clustering algorithms will be required for convergence. 
 * Today I've learned  kmeans implementation using pyspark in python. 
-* Article I learned is [here](https://towardsdatascience.com/k-means-implementation-in-python-and-spark-856e7eb5fe9b) 
-
+* Article on K-means uisng pyspark is [here](https://towardsdatascience.com/k-means-implementation-in-python-and-spark-856e7eb5fe9b) 
 * Notebook of [Day-9](https://github.com/VeerendraPappala/PYSPARK/tree/master/K-MEANS)
 
 
