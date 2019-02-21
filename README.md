@@ -144,6 +144,13 @@
 * Article on K-means uisng pyspark is [here](https://towardsdatascience.com/k-means-implementation-in-python-and-spark-856e7eb5fe9b) 
 * Notebook of [Day-9](https://github.com/VeerendraPappala/PYSPARK/tree/master/K-MEANS)
 
+## Day-11 | Classification with Pyspark
+
+* Binary classification involves classifying the data into two groups, e.g. whether or not a customer buys a particular product or not (Yes/No), based on independent variables such as gender, age, location etc.
+* As the target variable is not continuous, binary classification model predicts the probability of a target variable to be Yes/No. 
+* I learned implementing  Binary Classification using Pyspark in Python as of today's work
+* [Article](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a) I learned today. 
+
 
 
 
