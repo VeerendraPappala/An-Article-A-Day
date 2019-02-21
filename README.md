@@ -150,9 +150,7 @@
 * As the target variable is not continuous, binary classification model predicts the probability of a target variable to be Yes/No. 
 * I learned implementing  Binary Classification using Pyspark in Python as of today's work
 * [Article](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a) I learned today. 
-
-
-
+* Notebook of [Day-10](https://github.com/VeerendraPappala/PYSPARK)
 
 
 
