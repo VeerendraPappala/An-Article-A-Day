@@ -146,6 +146,9 @@
 
 ## Day-11 | Classification with Pyspark
 
+![binary](https://user-images.githubusercontent.com/45025357/53183825-0d36e480-3622-11e9-8e20-1dcbd63b7ceb.jpg)
+
+
 * Binary classification involves classifying the data into two groups, e.g. whether or not a customer buys a particular product or not (Yes/No), based on independent variables such as gender, age, location etc.
 * As the target variable is not continuous, binary classification model predicts the probability of a target variable to be Yes/No. 
 * I learned implementing  Binary Classification using Pyspark in Python as of today's work
