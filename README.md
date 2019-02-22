@@ -157,6 +157,9 @@
 
 ## Day-12 | NLP with Pyspark
 
+![what-is-nlp](https://user-images.githubusercontent.com/45025357/53259837-23ae7000-36f6-11e9-9adf-fee737336343.png)
+
+
 * A Natural language or Ordinary language is any language that has evolved naturally with time in humans through use and repetition without conscious planning or premeditation. Natural languages can take different forms, such as speech, signing or text.
 *  Natural language processing is a field of Artificial Intelligence that explores computational methods for interpreting and processing natural language, in either textual or spoken form.
 * To implement NLP we have some useful tools available:
