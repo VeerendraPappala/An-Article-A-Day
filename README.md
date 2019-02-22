@@ -174,7 +174,7 @@
    * Lemmatization
    * Text Classification
    
-* Notebook - [Day-12]((https://github.com/VeerendraPappala/PYSPARK)
+* Notebook - [Day-12](https://github.com/VeerendraPappala/PYSPARK)
    
 
 
