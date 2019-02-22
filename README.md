@@ -155,6 +155,28 @@
 * [Article](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a) I learned today. 
 * Notebook of [Day-10](https://github.com/VeerendraPappala/PYSPARK)
 
+## Day-12 | NLP with Pyspark
+
+* A Natural language or Ordinary language is any language that has evolved naturally with time in humans through use and repetition without conscious planning or premeditation. Natural languages can take different forms, such as speech, signing or text.
+*  Natural language processing is a field of Artificial Intelligence that explores computational methods for interpreting and processing natural language, in either textual or spoken form.
+* To implement NLP we have some useful tools available:
+   * CoreNLP 
+   * NLTK, the most widely-mentioned NLP library for Python
+   * TextBlob
+   * Gensi,
+   * SpaCy
+* NLTK environment setup and Installation in Apache Spark
+   * Word tokenize
+   * Remove Stopwords
+   * Remove punctuations
+   * Part of speech tagging
+   * Named Entity Recognition
+   * Lemmatization
+   * Text Classification
+   
+* Notebook - [Day-12]((https://github.com/VeerendraPappala/PYSPARK)
+   
+
 
 
 
