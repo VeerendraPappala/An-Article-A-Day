@@ -178,6 +178,12 @@
    * Text Classification
    
 * Notebook - [Day-12](https://github.com/VeerendraPappala/PYSPARK)
+
+## Day-13 | Decision Tree & Random Forest In Pyspark
+
+![decisiontree](https://user-images.githubusercontent.com/45025357/53289359-3343bc80-37bb-11e9-86d1-f78673687821.jpg)
+
+* Notebook - [Day-13](https://github.com/VeerendraPappala/PYSPARK/tree/master/DecisionTrees%20%26%20RandomForest)
    
 
 
