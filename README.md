@@ -187,6 +187,9 @@
 
 ## Dat-14 | Bringing the best out of Jupyter Notebooks for Data Science
 
+![jupyter](https://user-images.githubusercontent.com/45025357/53302551-32775d00-3885-11e9-8350-9a87087413d7.png)
+
+
 * Enhancing Jupyter Notebook’s productivity with these Tips & Tricks.
 * Exploring Jupyter Notebooks’ features which can enhance our productivity while working with them.   
 
