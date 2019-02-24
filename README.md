@@ -184,8 +184,13 @@
 ![decisiontree](https://user-images.githubusercontent.com/45025357/53289359-3343bc80-37bb-11e9-86d1-f78673687821.jpg)
 
 * Notebook - [Day-13](https://github.com/VeerendraPappala/PYSPARK/tree/master/DecisionTrees%20%26%20RandomForest)
-   
 
+## Dat-14 | Bringing the best out of Jupyter Notebooks for Data Science
+
+* Enhancing Jupyter Notebook’s productivity with these Tips & Tricks.
+* Exploring Jupyter Notebooks’ features which can enhance our productivity while working with them.   
+
+* Notebook - [Day-14](https://github.com/VeerendraPappala/An-Article-A-Day/tree/master/Day-14)
 
 
 
