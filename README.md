@@ -185,7 +185,7 @@
 
 * Notebook - [Day-13](https://github.com/VeerendraPappala/PYSPARK/tree/master/DecisionTrees%20%26%20RandomForest)
 
-## Dat-14 | Bringing the best out of Jupyter Notebooks for Data Science
+## Day-14 | Bringing the best out of Jupyter Notebooks for Data Science
 
 ![jupyter](https://user-images.githubusercontent.com/45025357/53302551-32775d00-3885-11e9-8350-9a87087413d7.png)
 
@@ -194,6 +194,15 @@
 * Exploring Jupyter Notebooks’ features which can enhance our productivity while working with them.   
 
 * Notebook - [Day-14](https://github.com/VeerendraPappala/An-Article-A-Day/tree/master/Day-14)
+
+## Day-15 | Data visualtion with  Matplotlib, seaborn
+
+* Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+* Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
+* Get in touch with its official documentation here:
+      * [Seaborn](https://seaborn.pydata.org)
+      * [Matplotlib](https://matplotlib.org)
+
 
 
 
