@@ -197,12 +197,16 @@
 
 ## Day-15 | Data visualtion with  Matplotlib, seaborn
 
+![plots](https://user-images.githubusercontent.com/45025357/53352864-9ebb9480-3949-11e9-945f-12de911fd706.png)
+
+
 * Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 * Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
 * Get in touch with its official documentation here:
       * [Seaborn](https://seaborn.pydata.org)
       * [Matplotlib](https://matplotlib.org)
 
+* Notebook - [Day-15](https://github.com/VeerendraPappala/Data-Visualization/tree/master/Effective%20data%20visualization)
 
 
 
