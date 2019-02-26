@@ -213,8 +213,8 @@
 ![pytorch-logo](https://user-images.githubusercontent.com/45025357/52785901-36360300-307f-11e9-97f4-d01c619a51ab.jpg)
 
 PyTorch is a Python machine learning package based on Torch, which is an open-source machine learning package based on the programming language Lua. PyTorch has two main features:
-• Tensor computation (like NumPy) with strong GPU acceleration
-• Automatic differentiation for building and training neural networks
+   * Tensor computation (like NumPy) with strong GPU acceleration
+   * Automatic differentiation for building and training neural networks
 
 * Notebook - [Day-16](https://github.com/VeerendraPappala/An-Article-A-Day/tree/master/Day-16)
 
