@@ -7,8 +7,7 @@
 
   **Article Is about Building Recommendation System for Books using Booksdata Set.** 
   
-* Virtually everyone has had an online experience where a website makes personalized recommendations. Amazon tells you “Customers Who Bought This Item Also Bought”, Udemy tells you “Students Who Viewed This Course Also Viewed”. Building recommender systems today requires specialized expertise in analytics, machine learning and software engineering, and learning new skills and tools is difficult and time-consuming.
-* So, if you want to learn how to build a recommender system from scratch, Read  the complete article from [here](https://towardsdatascience.com/how-did-we-build-book-recommender-systems-in-an-hour-part-2-k-nearest-neighbors-and-matrix-c04b3c2ef55c)  
+* Virtually everyone has had an online experience where a website makes personalized recommendations. Amazon tells you “Customers Who Bought This Item Also Bought”, Udemy tells you “Students Who Viewed This Course Also Viewed”. Building recommender systems today requires specialized expertise in analytics, machine learning and software engineering, and learning new skills and tools is difficult and time-consuming.  
 * Checkout the code from here -  [DAY1](https://github.com/VeerendraPappala/BOOK-RECOMMENDATION-SYSTEM/blob/master/Books_Recommendation.ipynb)
 
 
@@ -20,8 +19,6 @@
 
 * Automatic text summarization, is the process of creating a short, concise and coherent version of a longer document
  
-* Read the complete [Article](https://towardsdatascience.com/automatically-summarize-trumps-state-of-the-union-address-6757c6af6534)
-
 * Checkout the code from here - [Day2](https://github.com/VeerendraPappala/Analyise-Summarize-Trump-s-remarks-on-state-of-the-Union-Houses/blob/master/Summarize-Trump's-Remarks.ipynb)
 
 ## Day-3 | Time Forecast using  Tpot Automated ML in python
