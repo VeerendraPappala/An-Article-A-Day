@@ -223,6 +223,7 @@ PyTorch is a Python machine learning package based on Torch, which is an open-so
 * However, the vast majority of text classification articles and tutorials on the internet are binary text classification such as email spam filtering (spam vs. ham), sentiment analysis (positive vs. negative). 
 * In most cases, our real world problem are much more complicated than that.
 
+* Notebook - [Day-17](https://github.com/VeerendraPappala/TEXT-ANALYTICS)
 
 
 
