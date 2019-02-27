@@ -217,6 +217,8 @@ PyTorch is a Python machine learning package based on Torch, which is an open-so
 
 ## Day-17 | Multi-Class Text Classification with Scikit-Learn
 
+![text-scikit](https://user-images.githubusercontent.com/45025357/53511195-d52e1680-3ae5-11e9-9fdc-7ed4c60eefb8.png)
+
 * There are lots of applications of text classification in the commercial world. 
 * However, the vast majority of text classification articles and tutorials on the internet are binary text classification such as email spam filtering (spam vs. ham), sentiment analysis (positive vs. negative). 
 * In most cases, our real world problem are much more complicated than that.
