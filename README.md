@@ -225,5 +225,19 @@ PyTorch is a Python machine learning package based on Torch, which is an open-so
 
 * Notebook - [Day-17](https://github.com/VeerendraPappala/TEXT-ANALYTICS)
 
+## Day-18 | Convolutional Neural Network with Keras
+
+![keras](https://user-images.githubusercontent.com/45025357/53579507-ad9b8480-3b9f-11e9-9fee-42ba4bb6f056.png)
+
+
+* CNNs have wide applications in image and video recognition, recommender systems and natural language processing. 
+CNNs, like neural networks, are made up of neurons with learnable weights and biases. Each neuron receives several inputs, takes a weighted sum over them, pass it through an activation function and responds with an output.
+* Today, I've practised how to implement CNN with Keras
+
+
+
+
+
+
 
 
