@@ -234,6 +234,8 @@ PyTorch is a Python machine learning package based on Torch, which is an open-so
 CNNs, like neural networks, are made up of neurons with learnable weights and biases. Each neuron receives several inputs, takes a weighted sum over them, pass it through an activation function and responds with an output.
 * Today, I've practised how to implement CNN with Keras
 
+* Notebook - [Day-18](https://github.com/VeerendraPappala/An-Article-A-Day/tree/master/Day-18)
+
 
 
 
