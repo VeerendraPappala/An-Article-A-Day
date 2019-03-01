@@ -238,6 +238,9 @@ CNNs, like neural networks, are made up of neurons with learnable weights and bi
 
 ## Day-19 | Ensemble Learing- Random Forest,Ada Boost, Gradient Boosting 
 
+![ensemble-learning-jun29-1](https://user-images.githubusercontent.com/45025357/53652417-d76fac80-3c6e-11e9-995d-804958ae11bc.png)
+
+
 * Ensemble learning, in general, is a model that makes predictions based on a number of different models. By combining individual models, the ensemble model tends to be more flexible🤸‍♀️ (less bias) and less data-sensitive🧘‍♀️ (less variance).
 * Two most popular ensemble methods are bagging and boosting.
 * With a basic understanding of what ensemble learning learnt Random Forest, AdaBoost, and Gradient Boosting, and their implementation in Python Sklearn.
