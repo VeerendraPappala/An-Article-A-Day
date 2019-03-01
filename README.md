@@ -242,8 +242,7 @@ CNNs, like neural networks, are made up of neurons with learnable weights and bi
 * Two most popular ensemble methods are bagging and boosting.
 * With a basic understanding of what ensemble learning learnt Random Forest, AdaBoost, and Gradient Boosting, and their implementation in Python Sklearn.
 
-
-
+* Notebook - [Day-19](https://github.com/lilly-chen/Bite-sized-Machine-Learning/blob/master/Tree-BasedEsemble/Basic%20Ensemble%20Learning%20-%20Sample%20Code.ipynb)
 
 
 
