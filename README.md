@@ -249,6 +249,9 @@ CNNs, like neural networks, are made up of neurons with learnable weights and bi
 
 ## Day-20 | Essentials of Deep Learning – Sequence to Sequence modelling with Attention (using python)
 
+![sequence modeling](https://user-images.githubusercontent.com/45025357/53682306-769dae00-3d1a-11e9-9b2f-9241929f128f.png)
+
+
 * We know that to solve sequence modelling problems, Recurrent Neural Networks is our go-to architecture.
 * Suppose you have a series of statements:
 
