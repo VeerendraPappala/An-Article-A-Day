@@ -274,6 +274,8 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 * Lingvo is the international language Esperanto word for “language”. This naming alludes to the roots of the Lingvo framework — it was developed as a general deep learning framework using TensorFlow with a focus on sequence models for language-related tasks such as machine translation, speech recognition, and speech synthesis.
 * Above picture demontrates an overview of the Lingvo framework, outlining how models are instantiated, trained, and exported for evaluation and serving.
+* To jump straight into the code, check out Tensoflow [github](https://github.com/tensorflow/lingvo) page.
+* [More]((https://arxiv.org/abs/1902.08295)) details about Lingvo or some of the advanced features it supports.
 
 
 
