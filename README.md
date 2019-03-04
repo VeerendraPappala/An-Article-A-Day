@@ -283,8 +283,10 @@ This can be considered as a sequence modelling problem, as understanding the seq
 ## Day-22 | 9 obscure Python libraries for data science
 
 * Python is an amazing language. In fact, it's one of the fastest growing programming languages in the world.
-The entire ecosystem of Python and its libraries makes it an apt choice for users (beginners and advanced) all over the world. One of the reasons for its success and popularity is its set of robust libraries that make it so dynamic and fast.
+* The entire ecosystem of Python and its libraries makes it an apt choice for users (beginners and advanced) all over the world. One of the reasons for its success and popularity is its set of robust libraries that make it so dynamic and fast.
 * This article is about Python libraries for data science tasks other than the commonly used ones like pandas, scikit-learn, and matplotlib.
+* Article - [Day-22](https://opensource.com/article/18/11/python-libraries-data-science)
+
 
 
 
