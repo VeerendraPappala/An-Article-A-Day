@@ -290,6 +290,12 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * This article is about Python libraries for data science tasks other than the commonly used ones like pandas, scikit-learn, and matplotlib.
 * Article - [Day-22](https://opensource.com/article/18/11/python-libraries-data-science)
 
+## Day-23 |  TextBlob
+
+* A Python library for processing textual data, NLP framework, sentiment analysis.
+* As an NLP library for Python, TextBlob has been around for a while, after hearing many good things about it such as part-of-speech tagging and sentiment analysi.
+* Notbook - [Day-23](https://github.com/susanli2016/NLP-with-Python/blob/master/TextBlob%20Yelp%20Reviews.ipynb)
+
 
 
 
