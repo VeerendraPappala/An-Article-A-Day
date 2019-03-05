@@ -294,7 +294,6 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ![textblob](https://user-images.githubusercontent.com/45025357/53821658-4103f980-3f94-11e9-95a2-3854920f5721.png)
 
-
 * A Python library for processing textual data, NLP framework, sentiment analysis.
 * As an NLP library for Python, TextBlob has been around for a while, after hearing many good things about it such as part-of-speech tagging and sentiment analysi.
 * Notbook - [Day-23](https://github.com/susanli2016/NLP-with-Python/blob/master/TextBlob%20Yelp%20Reviews.ipynb)
