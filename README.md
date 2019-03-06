@@ -298,6 +298,12 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * As an NLP library for Python, TextBlob has been around for a while, after hearing many good things about it such as part-of-speech tagging and sentiment analysi.
 * Notbook - [Day-23](https://github.com/susanli2016/NLP-with-Python/blob/master/TextBlob%20Yelp%20Reviews.ipynb)
 
+## Day-24 | Is your Machine Learning Model Biased?
+
+* Machine learning models are being increasingly used to make decisions that affect people’s lives. With this power comes a responsibility to ensure that the model predictions are fair and not discriminating.
+* This article is about how to measure your model’s fairness and decide on the best fairness metrics.
+* Article - [Day-24](https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67)
+
 
 
 
