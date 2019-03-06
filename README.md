@@ -300,6 +300,9 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ## Day-24 | Is your Machine Learning Model Biased?
 
+![machine learning](https://user-images.githubusercontent.com/45025357/53898306-d4553180-405d-11e9-9c5c-788ce690427a.jpg)
+
+
 * Machine learning models are being increasingly used to make decisions that affect people’s lives. With this power comes a responsibility to ensure that the model predictions are fair and not discriminating.
 * This article is about how to measure your model’s fairness and decide on the best fairness metrics.
 * Article - [Day-24](https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67)
