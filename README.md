@@ -296,7 +296,7 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 * A Python library for processing textual data, NLP framework, sentiment analysis.
 * As an NLP library for Python, TextBlob has been around for a while, after hearing many good things about it such as part-of-speech tagging and sentiment analysi.
-* Notbook - [Day-23](https://github.com/susanli2016/NLP-with-Python/blob/master/TextBlob%20Yelp%20Reviews.ipynb)
+* Notebook - [Day-23](https://github.com/susanli2016/NLP-with-Python/blob/master/TextBlob%20Yelp%20Reviews.ipynb)
 
 ## Day-24 | Is your Machine Learning Model Biased?
 
