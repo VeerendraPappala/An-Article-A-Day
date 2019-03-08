@@ -309,6 +309,9 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ## Day-25 | A Gentle Introduction to Graph Neural Networks
 
+![graphical neural network](https://user-images.githubusercontent.com/45025357/54041521-f1206f00-41ed-11e9-92e0-a9450eac56d5.png)
+
+
 * Recently, Graph Neural Network (GNN) has gained increasing popularity in various domains, including social network, knowledge graph, recommender system, and even life science. 
 * The power of GNN in modeling the dependencies between nodes in a graph enables the breakthrough in the research area related to graph analysis.
 * This article aims to introduce the basics of Graph Neural Network and two more advanced algorithms, DeepWalk and GraphSage.
