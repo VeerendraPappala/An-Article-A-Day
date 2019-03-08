@@ -307,6 +307,12 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * This article is about how to measure your model’s fairness and decide on the best fairness metrics.
 * Article - [Day-24](https://towardsdatascience.com/is-your-machine-learning-model-biased-94f9ee176b67)
 
+## Day-25 | A Gentle Introduction to Graph Neural Networks
+
+* Recently, Graph Neural Network (GNN) has gained increasing popularity in various domains, including social network, knowledge graph, recommender system, and even life science. 
+* The power of GNN in modeling the dependencies between nodes in a graph enables the breakthrough in the research area related to graph analysis.
+* This article aims to introduce the basics of Graph Neural Network and two more advanced algorithms, DeepWalk and GraphSage.
+
 
 
 
