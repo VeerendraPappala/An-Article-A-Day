@@ -321,8 +321,9 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 * All modern deep learning models are trained using gradient descent. At each step of gradient descent, your parameter values begin at some starting point, and you move them in the direction of greatest loss reduction. 
 * You do this by taking the derivative of your loss with respect to your whole vector of parameters, otherwise called the Jacobian. 
-* However, this is just the first derivative of your loss, and it doesn’t tell you anything about curvature, or, how quickly your first derivative is changing. 
-* More about article is below
+* However, this is just the first derivative of your loss, and it doesn’t tell you anything about curvature, or, how quickly your first derivative is changing. More about article is below.
+
+* Article - [Day-25](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb) 
 
 
 
