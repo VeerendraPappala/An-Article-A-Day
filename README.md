@@ -328,6 +328,8 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ## Day-27 | Google open-sources GPipe
 
+![google](https://user-images.githubusercontent.com/45025357/54087904-f9a7af80-437d-11e9-89e2-3ae8a0dec63d.jpg)
+
 * Google open-sources GPipe, a library for efficiently training large deep neural networks
 *  GPipe, a library for “efficiently” training deep neural networks (layered functions modeled after neurons) under Lingvo, a TensorFlow framework for sequence modeling. 
 * It’s applicable to any network consisting of multiple sequential layers, Google AI software engineer Yanping Huang said in a blog post, and allows researchers to “easily” scale performance.
