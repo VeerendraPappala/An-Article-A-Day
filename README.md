@@ -324,8 +324,14 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * All modern deep learning models are trained using gradient descent. At each step of gradient descent, your parameter values begin at some starting point, and you move them in the direction of greatest loss reduction. 
 * You do this by taking the derivative of your loss with respect to your whole vector of parameters, otherwise called the Jacobian. 
 * However, this is just the first derivative of your loss, and it doesn’t tell you anything about curvature, or, how quickly your first derivative is changing. More about article is below.
-* Article - [Day-25](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb) 
+* Article - [Day-26](https://towardsdatascience.com/its-only-natural-an-excessively-deep-dive-into-natural-gradient-optimization-75d464b89dbb) 
 
+## Day-27 | Google open-sources GPipe
+
+* Google open-sources GPipe, a library for efficiently training large deep neural networks
+*  GPipe, a library for “efficiently” training deep neural networks (layered functions modeled after neurons) under Lingvo, a TensorFlow framework for sequence modeling. 
+* It’s applicable to any network consisting of multiple sequential layers, Google AI software engineer Yanping Huang said in a blog post, and allows researchers to “easily” scale performance.
+* Article - [Day-27](https://venturebeat.com/2019/03/04/google-open-sources-gpipe-a-library-for-efficiently-training-deep-neural-networks/)
 
 
 
