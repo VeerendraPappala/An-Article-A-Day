@@ -336,5 +336,9 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 * Article - [Day-27](https://venturebeat.com/2019/03/04/google-open-sources-gpipe-a-library-for-efficiently-training-deep-neural-networks/)
 
+##  Day-28 | Simulators
 
+* Simulators : The Key Training Environment for Applied Deep Reinforcement Learning
+* Deep reinforcement learning (DRL) is one of the most exciting fields in AI right now. 
+* It’s still early days, but there are obvious and underserved markets to which this technology can be applied today: enterprises that want to automate or optimize the efficiency of industrial systems and processes 
 
