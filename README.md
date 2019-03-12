@@ -342,3 +342,10 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * Deep reinforcement learning (DRL) is one of the most exciting fields in AI right now. 
 * It’s still early days, but there are obvious and underserved markets to which this technology can be applied today: enterprises that want to automate or optimize the efficiency of industrial systems and processes 
 * Article - [Day-28]
+
+## Day-29 |  creditR
+
+* creditR: An Amazing R Package to Enhance Credit Risk Scoring and Validation
+* Machine learning is disrupting multiple and diverse industries right now. One of the biggest industries to be impacted – finance.
+* Functions like fraud detection, customer segmentation, employee or client retention are primary machine learning targets.
+* Notebook - [Day-29](https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/)
