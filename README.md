@@ -338,10 +338,13 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ##  Day-28 | Simulators
 
+![simulator](https://user-images.githubusercontent.com/45025357/54216745-40c5aa00-4510-11e9-9d48-bdab2fb015e5.jpg)
+
 * Simulators : The Key Training Environment for Applied Deep Reinforcement Learning
 * Deep reinforcement learning (DRL) is one of the most exciting fields in AI right now. 
 * It’s still early days, but there are obvious and underserved markets to which this technology can be applied today: enterprises that want to automate or optimize the efficiency of industrial systems and processes 
 * Article - [Day-28]
+
 
 ## Day-29 |  creditR
 
