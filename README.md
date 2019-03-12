@@ -348,6 +348,8 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 ## Day-29 |  creditR
 
+![creditR](https://user-images.githubusercontent.com/45025357/54216838-6c489480-4510-11e9-8942-070f49ff400c.jpg)
+
 * creditR: An Amazing R Package to Enhance Credit Risk Scoring and Validation
 * Machine learning is disrupting multiple and diverse industries right now. One of the biggest industries to be impacted – finance.
 * Functions like fraud detection, customer segmentation, employee or client retention are primary machine learning targets.
