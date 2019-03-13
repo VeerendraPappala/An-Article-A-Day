@@ -354,3 +354,9 @@ This can be considered as a sequence modelling problem, as understanding the seq
 * Machine learning is disrupting multiple and diverse industries right now. One of the biggest industries to be impacted – finance.
 * Functions like fraud detection, customer segmentation, employee or client retention are primary machine learning targets.
 * Notebook - [Day-29](https://www.analyticsvidhya.com/blog/2019/03/introduction-creditr-r-package-enhance-credit-risk-scoring-validation-r-codes/)
+
+### Day-30 |  Web Scraping , Text Mining and Sentiment Analysis
+
+
+* Reference : [Textmining.R](https://www.tidytextmining.com)
+*
