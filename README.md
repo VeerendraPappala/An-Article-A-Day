@@ -359,4 +359,5 @@ This can be considered as a sequence modelling problem, as understanding the seq
 
 
 * Reference : [Textmining.R](https://www.tidytextmining.com)
+* Notebook - [Day-30](https://github.com/susanli2016/Data-Analysis-with-R/blob/master/Text%20Mining%20Hilton%20Hawaiian%20Village%20TripAdvisor%20Reviews.Rmd)
 
